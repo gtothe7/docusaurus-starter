@@ -1,4 +1,4 @@
-// @ts-check
+  docusaurus.config.js// @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
